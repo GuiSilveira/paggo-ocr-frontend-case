@@ -106,7 +106,7 @@ O projeto estará disponível em `http://localhost:5173/` (porta padrão do Vite
 ## 🌍 Deployment
 
 A aplicação está disponível em:
-🔗 [Paggo OCR Frontend](https://paggo-ocr-frontend-case-fqh8t93re-guilherme-coutinhos-projects.vercel.app/login)
+🔗 [Paggo OCR Frontend](https://paggo-ocr-frontend-case-fqh8t93re-guilherme-coutinhos-projects.vercel.app)
 
 ---
 
